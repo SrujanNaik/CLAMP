@@ -7,10 +7,10 @@ CLI based processes handler, using certan command you can open a file or a appli
 
 - Format  
 
->   00:00:00:00 /path/to/file
->    |  |  |  |
->    |  |  |  |
->    |  |  |  ------> minute
->    |  |  ---------> Hours(24)
->    |  ------------> Day
->    ---------------> Month
+>   00:00:00:00 /path/to/file  
+>    |  |  |  |  
+>    |  |  |  |  
+>    |  |  |  ------> minute  
+>    |  |  ---------> Hours(24)  
+>    |  ------------> Day  
+>    ---------------> Month  
